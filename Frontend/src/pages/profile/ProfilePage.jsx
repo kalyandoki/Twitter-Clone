@@ -207,7 +207,6 @@ const ProfilePage = () => {
               </div>
             </>
           )}
-
           <Posts />
         </div>
       </div>
